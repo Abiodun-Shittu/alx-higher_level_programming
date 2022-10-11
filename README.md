@@ -11,5 +11,17 @@ This repository contains all projects on python programming language Endorsed by
 ### 0x02. Python - Import and Modules
 - This project consists of modules in python.
 
-### Authors :black_nib:
+### 0x03-python-data_structures
+- This project consists of data structures in python.
+
+### 0x04-python-more_data_structures
+- This project consists of more data structures in python.
+
+### 0x05-python-exceptions
+- This project consists of try and exceptions in python.
+
+### 0x06-python-classes
+- This project consists of classses in python.
+
+### Author :black_nib:
 [**Abiodun Shittu**](https://github.com/Abiodun-Shittu)
