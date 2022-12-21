@@ -1,3 +1,4 @@
+#!/usr/bin/node
 module.exports = class Rectangle {
   constructor (w, h) {
     if (w > 0 && h > 0) {
@@ -13,7 +14,8 @@ module.exports = class Rectangle {
   }
 
   rotate () {
-    const temp = this.height;
+    let temp = 0;
+    temp = this.height;
     this.height = this.width;
     this.width = temp;
   }
