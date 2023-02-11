@@ -23,5 +23,9 @@ This repository contains all projects on python programming language Endorsed by
 ### 0x06-python-classes
 - This project consists of classses in python.
 
+### 0x07-python-test_driven_development
+
+### 0x08-python-more_classes
+
 ### Author :black_nib:
 [**Abiodun Shittu**](https://github.com/Abiodun-Shittu)
